@@ -1,14 +1,18 @@
 {
-    "name": "WDWF",
-    "version": "0.0.1",
-    "description": "bla",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "?.git"
-    },
-    "author": "Cookie Bra"
+  "name": "WDWF",
+  "version": "0.0.1",
+  "description": "bla",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Cookie Bra",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.2"
+  }
 }
