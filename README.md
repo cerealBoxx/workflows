@@ -1,1 +1,1 @@
-#A Project to train my workflow
+#A Project to train gulp and git workflow
